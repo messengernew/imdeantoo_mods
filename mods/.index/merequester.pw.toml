@@ -1,0 +1,13 @@
+filename = 'merequester-forge-1.19.2-1.1.4.jar'
+name = 'ME Requester'
+side = 'both'
+
+[download]
+hash = 'ba41efb874568c3ec466d86ae645c157896c89968788f3a96721f590ff37b02097f9f57afdf9bc9bd44466690679d3f458b6a6c5aee4843301d395d2db279119'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/E6BFl96N/versions/N0ZIW5Y9/merequester-forge-1.19.2-1.1.4.jar'
+
+[update.modrinth]
+mod-id = 'E6BFl96N'
+version = 'N0ZIW5Y9'

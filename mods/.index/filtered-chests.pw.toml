@@ -1,0 +1,13 @@
+filename = 'filteredchests-1.19.2-1.0.5.jar'
+name = 'Filtered Chests'
+side = 'both'
+
+[download]
+hash = '85582a7a6604ff239c7fe536ef235286a5287aa7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4524548
+project-id = 477808

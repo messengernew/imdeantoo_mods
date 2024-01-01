@@ -1,0 +1,13 @@
+filename = 'ScalableCatsForce-2.13.10-build-10-with-library.jar'
+name = "Scalable Cat's Force"
+side = 'both'
+
+[download]
+hash = '57642a7085adef72f095810f450cd675860dad94cc729c8b21741ff40df6a00a6e51ba8fbd77dc2f5fc542b82f0dfe1ea11abe116552fbefe29d2c28ebecf22a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zr0QMQMo/versions/Bdnijx1x/ScalableCatsForce-2.13.10-build-10-with-library.jar'
+
+[update.modrinth]
+mod-id = 'zr0QMQMo'
+version = 'Bdnijx1x'

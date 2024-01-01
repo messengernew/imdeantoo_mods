@@ -1,0 +1,13 @@
+filename = 'mekanismtweaks-1.1.jar'
+name = 'MekanismTweaks'
+side = 'both'
+
+[download]
+hash = '2482a5076b30a4f0447cc8ec9f39ad9b623fbb6f05ee1c39cf0378225d99e2043a08c52e6178d10338f39a86bb5d7e6b1448a49584fe673438ab67efbabbc58d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZQaUJHDe/versions/58ztvzOp/mekanismtweaks-1.1.jar'
+
+[update.modrinth]
+mod-id = 'ZQaUJHDe'
+version = '58ztvzOp'

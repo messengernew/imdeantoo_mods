@@ -1,0 +1,13 @@
+filename = 'dall 1.7 1.19.2.jar'
+name = 'Create:Dall'
+side = 'both'
+
+[download]
+hash = '8a8522049bd6150a19ab0466a0eeda1165dcefb3529fdd89c4fc122877322ad98242f02f8c538a9e94f7df222d32f82d63c95e555fed2861546478a2026bdab2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/znwI1gfE/versions/51U2Rk1R/dall 1.7 1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'znwI1gfE'
+version = '51U2Rk1R'

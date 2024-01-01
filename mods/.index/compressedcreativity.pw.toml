@@ -1,0 +1,13 @@
+filename = 'compressedcreativity-1.19.2-0.1.8.jar'
+name = 'Compressed Creativity'
+side = 'both'
+
+[download]
+hash = '5f594a1a80b30e3ba3cdf34a3633bad7d2dbc39337df83fd4b13845612bfa3cc79dff8eb0e0851999d889911832b29f0b673d5cf00a2f9bbd2126a10038a8b3b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Mt3rcQKj/versions/f03UZ0sz/compressedcreativity-1.19.2-0.1.8.jar'
+
+[update.modrinth]
+mod-id = 'Mt3rcQKj'
+version = 'f03UZ0sz'
