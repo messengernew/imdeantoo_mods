@@ -1,13 +1,13 @@
-filename = 'AdditionalEnchantedMiner-1.19.2-1192.3.25.jar'
+filename = 'AdditionalEnchantedMiner-1.20.1-1201.0.26.jar'
 name = 'Additional Enchanted Miner'
 side = 'both'
 
 [download]
-hash = '3998638527a1e74b017c904618cd76a8dfdabbaa4a986bad31a3da6bd9457ea2044c593cc41f75f04ae443616654ceca786798f8a03e77f1e7af7b1355dde460'
+hash = '84a982b9a40ca473f73ae7b82a3ccd7969e5d73c0e7c5d4b798336bfd772330e60a6676653b783e6992674b1f2b56feb0ac989695a0f10fff2d95d84ceb5fbd3'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/jhxX1zVW/versions/A7RY99tK/AdditionalEnchantedMiner-1.19.2-1192.3.25.jar'
+url = 'https://cdn.modrinth.com/data/jhxX1zVW/versions/ztcxfGU1/AdditionalEnchantedMiner-1.20.1-1201.0.26.jar'
 
 [update.modrinth]
 mod-id = 'jhxX1zVW'
-version = 'A7RY99tK'
+version = 'ztcxfGU1'

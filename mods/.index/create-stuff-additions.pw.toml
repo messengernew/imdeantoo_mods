@@ -1,0 +1,13 @@
+filename = 'create-stuff-additions1.20.1_v2.0.4a.jar'
+name = 'Create Stuff & Additions'
+side = 'both'
+
+[download]
+hash = 'd8ee0a3dfa2fbb272ae41d10e1f51d5c3f501d6f43d5be3a88ab2f0dfde3e85781b5d45208024c46a8107fc802f2fd9acab6194f12f20f19b10f3dd2b4986390'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aq9qUUQG/versions/BZVJs8ty/create-stuff-additions1.20.1_v2.0.4a.jar'
+
+[update.modrinth]
+mod-id = 'aq9qUUQG'
+version = 'BZVJs8ty'

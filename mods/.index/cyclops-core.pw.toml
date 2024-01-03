@@ -1,13 +1,13 @@
-filename = 'CyclopsCore-1.19.2-1.18.11.jar'
+filename = 'CyclopsCore-1.20.1-1.18.9.jar'
 name = 'Cyclops Core'
 side = 'both'
 
 [download]
-hash = '0ab27cae4d3d1be7d2336a95fcec3bc656e313ef'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '887bd17dc7bed95fca099cc7edf8dadf8c3a48fbd53f59012231f1001b853953597ea377189837d1f1e6e11fa6bdbbb4de211c8bc56190f6c34360c30ecd1ea0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Z9DM0LJ4/versions/is87mIpg/CyclopsCore-1.20.1-1.18.9.jar'
 
-[update.curseforge]
-file-id = 4905969
-project-id = 232758
+[update.modrinth]
+mod-id = 'Z9DM0LJ4'
+version = 'is87mIpg'

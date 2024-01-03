@@ -1,0 +1,13 @@
+filename = 'pipez-forge-1.19.2-1.2.6.jar'
+name = 'Pipez'
+side = 'both'
+
+[download]
+hash = 'd257a0d1884908768fc9e6237f7a82cff89ec5ad6d005b6d29124eea0870835c3951668f9f967d993281648ad70128a1250de3e4309dc78c1c07db62c7e95bd0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iRmWy6ga/versions/4tOUJlen/pipez-forge-1.19.2-1.2.6.jar'
+
+[update.modrinth]
+mod-id = 'iRmWy6ga'
+version = '4tOUJlen'

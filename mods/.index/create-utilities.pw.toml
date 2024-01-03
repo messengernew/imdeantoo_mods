@@ -1,13 +1,13 @@
-filename = 'createutilities-0.1.4+1.19.2.jar'
+filename = 'createutilities-0.1.4+1.20.1.jar'
 name = 'Create Utilities'
 side = 'both'
 
 [download]
-hash = '60c2ef6f77645226707d803036690e2caefe132b4e9485b8c5d33e3eb43a80e6ce32101f8475b12ab14e870fef556803031ca0ce87e0346da5ce79605fb67b4c'
+hash = 'df098f397c5b6132241d860f59c1b37344104e5ab3e12244ea0e52de84aec04682dd97bdef39216df9c73d085ec854b11c34e5652023f8f0cc66d84dcd023902'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/PRHeWeBs/versions/Tx3GEP9P/createutilities-0.1.4%2B1.19.2.jar'
+url = 'https://cdn.modrinth.com/data/PRHeWeBs/versions/c7FC0KgE/createutilities-0.1.4%2B1.20.1.jar'
 
 [update.modrinth]
 mod-id = 'PRHeWeBs'
-version = 'Tx3GEP9P'
+version = 'c7FC0KgE'

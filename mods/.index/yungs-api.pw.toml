@@ -1,0 +1,13 @@
+filename = 'YungsApi-1.20-Forge-4.0.2.jar'
+name = "YUNG's API"
+side = 'both'
+
+[download]
+hash = 'ae6d6d85b303aaf543be8f5a6f5241467ec07f3c8ca6766a8fbf3406cab28a1b2df7b6bb8a7f8aa6c8c8abcb9c97048f2d6ee1fe0fb76fee77fbac89d63cb34f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ua7DFN59/versions/HIRzLg0r/YungsApi-1.20-Forge-4.0.2.jar'
+
+[update.modrinth]
+mod-id = 'Ua7DFN59'
+version = 'HIRzLg0r'

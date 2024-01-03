@@ -1,13 +1,13 @@
-filename = 'RingsOfAscension-1.19-1.0.1.jar'
+filename = 'RingsOfAscension-1.20.1-2.0.1.jar'
 name = 'Rings of Ascension'
 side = 'both'
 
 [download]
-hash = '5ac696e45e89cb2ba251ae039c5ac33001e52eeee117ebf3659e5b3fce4f1732cdb4c0b8385d0a6fc2e8be44261f87fc058d0415fc5a4af8f4d5aceba73fc670'
+hash = 'bf59e25cc9a204231d6ff92a6be5463581ded205d493b6cc991e4ff27746cc5842c86ea35167f7287f7ccb400367f9df27361360d2536d07b41f3e1a5ceae943'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/IxxES3Kk/versions/pWIit22r/RingsOfAscension-1.19-1.0.1.jar'
+url = 'https://cdn.modrinth.com/data/IxxES3Kk/versions/s9CnaavG/RingsOfAscension-1.20.1-2.0.1.jar'
 
 [update.modrinth]
 mod-id = 'IxxES3Kk'
-version = 'pWIit22r'
+version = 's9CnaavG'

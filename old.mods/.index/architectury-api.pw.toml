@@ -1,0 +1,13 @@
+filename = 'architectury-6.5.85-forge.jar'
+name = 'Architectury API'
+side = 'both'
+
+[download]
+hash = '61860b23aee3b37aff0f5e92aaec708bccafd16321cd5075fe1b55e34acb2d346226023adb498573c5fd91864db4f69c34ecae212a3a873c87b58d48eb386fbe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lhGA9TYQ/versions/ns7Xs1B6/architectury-6.5.85-forge.jar'
+
+[update.modrinth]
+mod-id = 'lhGA9TYQ'
+version = 'ns7Xs1B6'

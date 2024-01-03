@@ -1,0 +1,13 @@
+filename = 'tesseract-1.0.35a-forge-mc1.19.jar'
+name = 'Tesseract'
+side = 'both'
+
+[download]
+hash = '34d6bbbb057b9add00e893276a6a7cb13d588d67ed0e1202a614f8e6cfe13a8a17876cbb5ca734dce32a6c2034e44a944a6137f8616f0ea6a8386129b6a09005'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OUhp5O2m/versions/XftXUN9r/tesseract-1.0.35a-forge-mc1.19.jar'
+
+[update.modrinth]
+mod-id = 'OUhp5O2m'
+version = 'XftXUN9r'

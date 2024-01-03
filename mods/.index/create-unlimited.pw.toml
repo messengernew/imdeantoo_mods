@@ -1,13 +1,13 @@
-filename = 'createunlimited-0.5.0+mc1.19.2.jar'
+filename = 'createunlimited-0.5.0+mc1.20.1.jar'
 name = 'Create Unlimited'
 side = 'both'
 
 [download]
-hash = '411571cd30f3e882c29983919f4364bc35272a937d4a89cc5b7ff30386dd888e20d1c8753348aec794c1a6a390907076634b5ab2f53ad3202a4699b7a314b975'
+hash = '4a4e9f1d2df735b62141a0a077385ab869d81a5eff097b6c4f1f61a62d5da75471b0920e8ab3d7dd1d6cb2d7d21e2078755e73a0e832a0c27d66fd5ef6f5819e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/jyG2CDff/versions/3pinH0LB/createunlimited-0.5.0%2Bmc1.19.2.jar'
+url = 'https://cdn.modrinth.com/data/jyG2CDff/versions/1Pvv37ET/createunlimited-0.5.0%2Bmc1.20.1.jar'
 
 [update.modrinth]
 mod-id = 'jyG2CDff'
-version = '3pinH0LB'
+version = '1Pvv37ET'

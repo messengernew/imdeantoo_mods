@@ -1,0 +1,13 @@
+filename = 'elytraslot-forge-6.1.1+1.19.2.jar'
+name = 'Elytra Slot'
+side = 'both'
+
+[download]
+hash = '7ba5e0b212eacaba1573160ee1ce3717a1736e72af8c0b6910d959d60b971a1ebfcf4bb78302f6868945689ea2828daf8541a8bc54ccaa8b1c087e5907bb5a6c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mSQF1NpT/versions/FiPiHVGd/elytraslot-forge-6.1.1%2B1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'mSQF1NpT'
+version = 'FiPiHVGd'

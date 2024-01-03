@@ -1,0 +1,13 @@
+filename = 'MysticalAgriculture-1.19.2-6.0.13.jar'
+name = 'Mystical Agriculture'
+side = 'both'
+
+[download]
+hash = '2cd8921403daae71e4c9760042701e779dc5373cbec27d2bd9666dec1f249c56facb38eaf34314e18423ecf1462b2199473db4b4548f73bafaa85a5b9c74da4f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/C95ReXie/versions/TOQpImp2/MysticalAgriculture-1.19.2-6.0.13.jar'
+
+[update.modrinth]
+mod-id = 'C95ReXie'
+version = 'TOQpImp2'

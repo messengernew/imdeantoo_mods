@@ -1,0 +1,13 @@
+filename = 'craftable-smitihing-templates-1.1-Forge.jar'
+name = 'Craftable Smithing Templates (Armor Trims)'
+side = 'both'
+
+[download]
+hash = 'b907999a3988aeb1d39586be9a806a388e4de6cd99f9a25f0b9c677520ec44ee1dcd0b2209431821fc585005c56f1708c481a23ae924b3623c6d7ee5809380b7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HxvFN3sd/versions/UrIzV2y2/craftable-smitihing-templates-1.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'HxvFN3sd'
+version = 'UrIzV2y2'

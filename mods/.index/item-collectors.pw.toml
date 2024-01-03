@@ -1,13 +1,13 @@
-filename = 'itemcollectors-1.1.8-forge-mc1.19.jar'
+filename = 'itemcollectors-1.1.8-forge-mc1.20.jar'
 name = 'Item Collectors'
 side = 'both'
 
 [download]
-hash = '0a19a4f5779f94ce494129c4b47c58be0d1c7a07bae29e47af9dfe7eef984f67161fe64c04cae5ce7a7936e7f151b1050aa98eac47adde7a0721316a12596565'
+hash = '8f6c45fe65c08b28c85593351fc610c81e7a460f5300b14d30a2406368e66a170be1fe8e526694323f22bda7e46406e0fc9a13699a06c974000bee837391a33f'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/y9vDr4Th/versions/zQT0MWYq/itemcollectors-1.1.8-forge-mc1.19.jar'
+url = 'https://cdn.modrinth.com/data/y9vDr4Th/versions/ik2HYJTx/itemcollectors-1.1.8-forge-mc1.20.jar'
 
 [update.modrinth]
 mod-id = 'y9vDr4Th'
-version = 'zQT0MWYq'
+version = 'ik2HYJTx'
